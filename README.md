@@ -12,6 +12,8 @@ The first section of my analysis depicts the relationship between campaign start
 ### Goal vs Outcome
 The second section of my analysis examines the relationship between the fundraising goal of the campaign and the outcome. I started by creating groups of dollar amounts for the campaigns. I then used the count ifs function to find the number of campaigns for each outcome in the different goal groups. Next, I used the sum function to find the total number of campaign outcomes in each goal group. Based on this column I calculated the precent for of each outcome for the various campaign goals. Finally, I created a line graph to show the trend of outcome vs goal.
 
+![My Image](https://github.com/tyannellis/kickstarter_analysis/blob/main/Outcomes_vs_goals.png?raw=true)
+
 ### Challenges
 When doing this analysis, one challenge I encountered was using the count ifs function. I had not used this function before, so getting all the criteria correctly was difficult at first. However, I overcame this by carefully looking at example videos.  
 
