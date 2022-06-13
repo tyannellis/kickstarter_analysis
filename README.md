@@ -7,6 +7,8 @@ Louise is an aspiring play writer wanting to start a crowdfunding campaign for h
 ### Launch Date vs Outcome
 The first section of my analysis depicts the relationship between campaign start date and the possible outcomes of failed, canceled, and success. I started by creating a column utilizing the year function based on the Kickstarter creation date column. I then made a pivot table displaying the outcomes as columns and the creation dates as rows, and I filtered the pivot table to show only play campaigns. From this pivot table I made a line pivot chart to visualize the trends throughout the years. 
 
+![My Image](https://github.com/tyannellis/kickstarter_analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+
 ### Goal vs Outcome
 The second section of my analysis examines the relationship between the fundraising goal of the campaign and the outcome. I started by creating groups of dollar amounts for the campaigns. I then used the count ifs function to find the number of campaigns for each outcome in the different goal groups. Next, I used the sum function to find the total number of campaign outcomes in each goal group. Based on this column I calculated the precent for of each outcome for the various campaign goals. Finally, I created a line graph to show the trend of outcome vs goal.
 
